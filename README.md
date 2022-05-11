@@ -1,4 +1,11 @@
+<!-- Status -->
 
+<!-- <h4 align="center"> 
+---
+	🚧  Projeto To-do-app 🚀 Em construção...  🚧
+</h4> 
+
+<hr> -->
 
 
 <div align="center" id="top">
