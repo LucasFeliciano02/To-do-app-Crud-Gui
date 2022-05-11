@@ -1,10 +1,5 @@
 
 
-	🚧  Projeto To-do-app 🚀 Em construção...  🚧
-</h4> 
-
-<hr> 
-
 
 <div align="center" id="top">
   <img alt="To-do-app" title="To-do-app" src="./to_do.gif"/>
