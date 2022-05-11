@@ -40,7 +40,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Calculadora IMC feita com interface gráfica do python: Tkinter 
+• To-do-app muito feito com a gui tkinter do python e o banco de dados sqlite Crud
 ```
 
 ## :sparkles: Funcionalidades ##
