@@ -40,7 +40,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• To-do-app realizado com a gui tkinter do python e o banco de dados sqlite em que há a função de Crud
+• To-do-app realizado com a gui tkinter do python e o banco de dados sqlite em que há a função de Crud usando a interface
 ```
 
 ## :sparkles: Funcionalidades ##
