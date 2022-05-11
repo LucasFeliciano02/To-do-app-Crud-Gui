@@ -9,7 +9,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Calculadora" title="Calculadora" src="./imc.gif"/>
+  <img alt="To-do-app" title="To-do-app" src="./to_do.gif"/>
 </h1>
 
  
