@@ -46,8 +46,8 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Calcular seu IMC colocando seu peso em kg e sua altura em metros;\
-:heavy_check_mark: Metragem no padrão br, em que automaticamente aparece a virgula ao colocar sua altura;\
+:heavy_check_mark: Colocar suas tarefas a fazer;\
+:heavy_check_mark: Criar, ver, atualizar e deletar tarefas e sua comunicação com o banco de dados SQlite;\
 :heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho.
 
 ## :rocket: Tecnologias ##
