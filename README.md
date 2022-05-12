@@ -102,9 +102,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 
 # Baixar Run Code em extensões, tkinter no terminal e DESFRUTAR DO CÓDIGO
  -> terminal -> pip install tkinter
- 
-# Ter instalado em sua máquina:
- -> DB Browser (SQLite)
 
 # Utilizando o executável:
  -> mouse esquerdo no arquivo.exe ->  Criar atalho  ->  Abrir o app na área de trabalho  &  Enjoy
